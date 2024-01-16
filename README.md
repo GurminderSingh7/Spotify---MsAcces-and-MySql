@@ -1,1 +1,1 @@
-This is the project i made to  manage spotify songs with wide variety of artists and information relation to genre of music, albums, singles, top charts etc and also it is made for doing CRUD operations in it.
+This is the project i made to manage spotify songs using MS Access as front end and MySQL as backend for storing database, with wide variety of artists and information relation to genre of music, albums, singles, top charts etc and also it is made for doing CRUD operations in it.
